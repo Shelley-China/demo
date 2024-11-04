@@ -17,7 +17,7 @@ public class EccEkbeResponse {
     @JacksonXmlProperty(localName = "TABLES")
     private Tables tables;
 
-//
+
 //    @JacksonXmlElementWrapper(localName = "StringList")
 //    private List<Tables> mx;
 
